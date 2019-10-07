@@ -1,0 +1,10 @@
+{
+    "token": "NjI5ODQwMTM0MDczNzQ1NDQ4.XZrRPA.aT2mtzYueL6kPq4i0oEhQ_Wvtcc",
+    "prefix": "*",
+    "logsChannel": "ban-and-kick-logs",
+    "reportsChannel": "users-reported",
+
+    "activity": {
+        "game": "LightningServices.tk"
+    }
+}
